@@ -2,9 +2,7 @@ Hey, I'm Faris Zaidan 👋
 
 I'm an Indonesian student currently at Bursa Uludag University, building my foundation in technology and engineering.
 
-* Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/fariszaidan/).
-
-## 🔭 Current Endeavors
+## 🔭 Current Occupations
 
 Starting my IT career path in the network engineering field since high school, I am constantly catching up to the current trends. Here's what I'm currently focused on:
 
